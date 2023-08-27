@@ -1,5 +1,5 @@
 * {
-  border: 2px solid red;
+  border: 1px solid red;
 }
 
 h1 {
@@ -13,6 +13,12 @@ h1 {
 }
 
 h2 {
-  background-color: aliceblue;
-  margin: 20px auto;
+  color: saddlebrown;
+  display: flex;
+  padding: 3px;
+  margin: 20px 5px;
+}
+
+ul li {
+  color: mediumblue;
 }
