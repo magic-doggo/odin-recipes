@@ -1,4 +1,18 @@
+* {
+  border: 2px solid red;
+}
+
 h1 {
   font-family: "Times New Roman", serif;
   color: darkblue;
+}
+
+.food-image {
+  height: auto;
+  width: 250px;
+}
+
+h2 {
+  background-color: aliceblue;
+  margin: 20px auto;
 }
