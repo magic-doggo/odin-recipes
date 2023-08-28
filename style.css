@@ -1,5 +1,6 @@
 * {
   border: 1px solid red;
+  background-color: aliceblue;
 }
 
 h1 {
@@ -19,6 +20,14 @@ h2 {
   margin: 20px 5px;
 }
 
-ul li {
+.recipes li {
   color: mediumblue;
+  display: inline-block;
+  margin: 5px auto;
+  padding: 10px;
+  background-color: lightsalmon;
+}
+
+.intro {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
